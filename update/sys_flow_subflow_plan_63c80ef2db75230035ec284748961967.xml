@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_subflow_plan">
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>com.snc.process_flow.engine.ProcessPlan@c42cca</plan>
+        <plan_id display_value="some subflow">93b88af2db75230035ec2847489619ee</plan_id>
+        <snapshot>17c80ef2db75230035ec284748961955</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
+        <sys_created_by>apoorv</sys_created_by>
+        <sys_created_on>2018-11-19 17:27:02</sys_created_on>
+        <sys_id>63c80ef2db75230035ec284748961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>93b88af2db75230035ec2847489619ee</sys_name>
+        <sys_package display_value="some Application" source="x_snc_some_applica">7844727ddbf5230035ec2847489619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="some Application">7844727ddbf5230035ec2847489619ce</sys_scope>
+        <sys_update_name>sys_flow_subflow_plan_63c80ef2db75230035ec284748961967</sys_update_name>
+        <sys_updated_by>apoorv</sys_updated_by>
+        <sys_updated_on>2018-11-19 17:27:02</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>

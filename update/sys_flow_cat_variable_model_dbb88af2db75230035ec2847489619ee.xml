@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>93b88af2db75230035ec2847489619ee</id>
+        <name>some subflow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>apoorv</sys_created_by>
+        <sys_created_on>2018-11-19 17:26:45</sys_created_on>
+        <sys_id>dbb88af2db75230035ec2847489619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>some subflow</sys_name>
+        <sys_package display_value="some Application" source="x_snc_some_applica">7844727ddbf5230035ec2847489619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="some Application">7844727ddbf5230035ec2847489619ce</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_dbb88af2db75230035ec2847489619ee</sys_update_name>
+        <sys_updated_by>apoorv</sys_updated_by>
+        <sys_updated_on>2018-11-19 17:26:45</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>some_subflow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot>17c80ef2db75230035ec284748961955</latest_snapshot>
+        <master_snapshot>17c80ef2db75230035ec284748961955</master_snapshot>
+        <name>some subflow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>apoorv</sys_created_by>
+        <sys_created_on>2018-11-19 17:26:45</sys_created_on>
+        <sys_id>93b88af2db75230035ec2847489619ee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>some subflow</sys_name>
+        <sys_package display_value="some Application" source="x_snc_some_applica">7844727ddbf5230035ec2847489619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="some Application">7844727ddbf5230035ec2847489619ce</sys_scope>
+        <sys_update_name>sys_hub_flow_93b88af2db75230035ec2847489619ee</sys_update_name>
+        <sys_updated_by>apoorv</sys_updated_by>
+        <sys_updated_on>2018-11-19 17:27:02</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=93b88af2db75230035ec2847489619ee"/>
+    <sys_variable_value action="delete_multiple" query="document_key=93b88af2db75230035ec2847489619ee"/>
+</record_update>
